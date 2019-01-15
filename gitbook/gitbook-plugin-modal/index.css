@@ -24,3 +24,5 @@
 ins {
   z-index: 4;
 }
+.gitbook-plugin-modal,.gitbook-plugin-modal-content,ins{
+display:none}
